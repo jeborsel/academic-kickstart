@@ -1,7 +1,6 @@
 name: Hugo build and Firebase Deploy
 
 on: [push]
-name: Publish blog
 jobs:
   build:
     runs-on: ubuntu-latest
