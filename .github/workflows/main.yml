@@ -1,11 +1,15 @@
 name: Hugo build and Firebase Deploy
 
 on: [push]
-
+name: Publish blog
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-      - uses: pulimento/github-action-hugo-deploy-to-firebase@1.1.0
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+    - uses: pulimento/github-action-hugo-deploy-to-firebase@master
+      with:
+        firebase-token: ${{ secrets.secret_firebase_token }}
+
