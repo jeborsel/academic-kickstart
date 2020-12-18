@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://dt.bosa.be/"
   location = "Brussels"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """
   * Working on Innovation & “AI4Belgium”
   * Part of the Federal Innovation Network

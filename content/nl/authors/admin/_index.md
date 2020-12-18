@@ -77,11 +77,12 @@ email: ""
 ---
 
 Hallo! Mijn naam is **Bert Jehoul**, online kan je mij ook terugvinden onder mijn pseudoniem **jeborsel**.
-Momenteel werk ik voor [**FOD BOSA DG Digitale Transformatie**](https://dt.bosa.be/nl) in het domein **Innovatie** .
+
+Momenteel werk ik als onafhankelijke rond [**Open Badges**](https://openbadges.org/) en Europese projecten rond [Open Recognition](https://openrecognition.org/).
 Ik ben een actief lid van de internationale **Open Badges & Open Recognition** community en mede-oprichter van [Open Recognition Belgium](http://openrecognition.be/).
 Ik ben ook enthousiast vrijwilliger & bestuurslid van [**Open Knowledge Belgium**](http://openknowledge.be/) en co-organisator van [Civic Lab Brussels](https://www.meetup.com/en-AU/Civic-Lab-Brussels/) & [Basic Income Tech](https://www.meetup.com/en-AU/Belgium-Basic-Income-Meetup/) meetups.
 
-Als Freelancer maak ik deel uit van het [RD Talents](https://www.rdtalents.eu/) Open Badges consultants netwerk en ben ik één van de oprichters van de Start-up [BitofTrust](https://www.bitoftrust.com/the-founding-members/about-bit-of-trust/).
+Ik maak deel uit van het [RD Talents](https://www.rdtalents.eu/) Open Badges consultants netwerk en ben ik één van de oprichters van de Start-up [BitofTrust](https://www.bitoftrust.com/the-founding-members/about-bit-of-trust/).
 
 Ik heb een achtergrond in **Psychologie en Psychometrie** en hebben leren coderen via het gebruik van de **statistische software R**.
 En kijk elk jaar uit om studenten te mogen coachen tijdens [Open Summer of Code](https://osoc.be/).  
