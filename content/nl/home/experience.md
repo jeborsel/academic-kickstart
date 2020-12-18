@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   location = "Hasselt"
   date_start = "2018-01-01"
   date_end = ""
+  weight = 1
   description = """
   
   * Open Recognition Ambassador & Consultancy
@@ -38,6 +39,7 @@ date_format = "Jan 2006"
   location = "Brussels"
   date_start = "2019-03-01"
   date_end = "2020-07-01"
+  weight = 3
   description = """
   * Working on Innovation & “AI4Belgium”
   * Part of the Federal Innovation Network
@@ -54,6 +56,7 @@ date_format = "Jan 2006"
   location = "Brussels"
   date_start = "2017-12-01"
   date_end = ""
+  weight = 2
   description = """
   * Lead of Open Badges Belgium 
   * Co-founder of Open Recognition Belgium
