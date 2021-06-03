@@ -80,7 +80,7 @@ Hi! My name is **Bert Jehoul**, online you can find me as **jeborsel**.
 
 Currently working as Independent on [**Open Badges**](https://openbadges.org/) & European projects on [Open Recognition](https://openrecognition.org/).
 
-I am an active member of the international **Open Badges & Open Recognition** community and co-founder of [Open Recognition Belgium](https://openknowledge.be/activities/open-recognition-belgium).
+I am an active member of the international **Open Badges & Open Recognition** community and co-founder of [Open Recognition Belgium](https://openknowledge.be/activities/open-recognition-belgium). 
 I am also an enthusiastic volunteer & member of the board of [**Open Knowledge Belgium**](http://openknowledge.be/) and co-organiser of [Civic Lab Brussels](https://www.meetup.com/en-AU/Civic-Lab-Brussels/) & [Basic Income Tech](https://www.meetup.com/en-AU/Belgium-Basic-Income-Meetup/) meetups.
 
 As Independent I am a part of the [RD Talents](https://www.rdtalents.eu/) Open Badges consultants network and one of the co-founders of [BitofTrust](https://www.bitoftrust.com/the-founding-members/about-bit-of-trust/).
