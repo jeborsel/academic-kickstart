@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://jeborsel.com/"
   location = "Hasselt"
   date_start = "2018-03-01"
-  weight = 1
+  weight = 2
   date_end = ""
   description = """
   
@@ -35,13 +35,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Innovation"
+  title = "Innovation Designer"
   company = "DG Digital Transformation, BOSA, Federal Government"
   company_url = "https://dt.bosa.be/"
   location = "Brussels"
   date_start = "2018-02-27"
-  date_end = "2020-07-01"
-  weight = 3
+  date_end = ""
+  weight = 1
   description = """
   * Working on Innovation & “AI4Belgium”
   * Part of the Federal Innovation Network
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company_url = "http://openknowledge.be/"
   location = "Brussels"
   date_start = "2018-02-28"
-  weight = 2
+  weight = 3
   date_end = ""
   description = """
   * Lead of Open Badges Belgium 
