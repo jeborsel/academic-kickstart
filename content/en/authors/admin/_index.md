@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Innovation / Open Recognition
+role: Innovation Designer / Open Recognition Developer
 
 # Organizations/Affiliations
 organizations:
 - name: BOSA DG Digital Transformation
-  url: "https://dt.bosa.be/"
+  url: "https://bosa.belgium.be/"
 - name: Open Knowledge Belgium
-  url: "http://be.okfn.org/"
+  url: "https://openknowledge.be"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Open Knowledge Belgium Board Member, Digital Innovation at FOD BOSA, Open Recognition Ambassador, Psychometrician, R-User
+bio: Innovation Designer at FOD BOSA, Open Knowledge Belgium Board Member, Open Recognition Ambassador, Psychometrician, R-User
 
 interests:
 - Open Recognition
@@ -78,15 +78,13 @@ email: ""
 
 Hi! My name is **Bert Jehoul**, online you can find me as **jeborsel**.  
 
-Currently working as Independent on [**Open Badges**](https://openbadges.org/) & European projects on [Open Recognition](https://openrecognition.org/).
+Currently I work as Innovation Designer at the FPS BOSA [**FPS BOSA**](https://bosa.belgium.be). For which I am helping to implement Conversational AI to improve the delivery of public services and enhance the citizen experience.
 
-I am an active member of the international **Open Badges & Open Recognition** community and co-founder of [Open Recognition Belgium](https://openknowledge.be/activities/open-recognition-belgium). 
-I am also an enthusiastic volunteer & member of the board of [**Open Knowledge Belgium**](http://openknowledge.be/) and co-organiser of [Civic Lab Brussels](https://www.meetup.com/en-AU/Civic-Lab-Brussels/) & [Basic Income Tech](https://www.meetup.com/en-AU/Belgium-Basic-Income-Meetup/) meetups.
-
-As Independent I am a part of the [RD Talents](https://www.rdtalents.eu/) Open Badges consultants network and one of the co-founders of [BitofTrust](https://www.bitoftrust.com/the-founding-members/about-bit-of-trust/).
+As volunteer I am an active member of the international [**Open Badges**](https://openbadges.org/) **&** [**Open Recognition**](https://openrecognition.org/) community and co-founder of [Open Recognition Belgium](https://openknowledge.be/activities/open-recognition-belgium). 
+I am also an enthusiastic volunteer & member of the board of [**Open Knowledge Belgium**](http://openknowledge.be/) for which I was co-organiser of [Civic Lab Brussels](https://www.meetup.com/en-AU/Civic-Lab-Brussels/) & [Basic Income Tech](https://www.meetup.com/en-AU/Belgium-Basic-Income-Meetup/) meetups.
 
 I have a background in **Psychology and Psychometrics** and learned coding via the use of the **statistical software R**.
-I very much enjoy coaching students each year during [Open Summer of Code](https://osoc.be/).  
+I am a former coach at [Open Summer of Code](https://osoc.be/).  
 
 
 
